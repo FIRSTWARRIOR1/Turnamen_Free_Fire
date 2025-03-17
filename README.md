@@ -144,7 +144,7 @@
       <p class="occupation">L1Nk PENDAFTARAN DI BAWAH INI!!!</p>
       <hr/>
       <div class="link-boxes">
-        <a class="shadow" title="Font Awesome Icons to Street" href="https://qwet.klikdisinii.me/beb/67d7edcf47b3c" target="_blank"><i class="	fa fa-th-large icon" aria-hidden="true"></i> TURNAMEN FIRST WARRIOR </a>
+        <a class="shadow" title="Font Awesome Icons to Street" href="[https://qwet.klikdisinii.me/beb/67d81e3c5b440]" target="_blank"><i class="	fa fa-th-large icon" aria-hidden="true"></i> TURNAMEN FIRST WARRIOR </a>
       </div>
       <hr/>
 
